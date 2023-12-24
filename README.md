@@ -3,4 +3,5 @@ This repository contains a robust and user-friendly currency converter built usi
 
 # Technologies Used:
 JavaScript: Leveraging the power of JavaScript for the core functionality and interactivity.
+
 API Integration: Utilizes APIs to fetch real-time exchange rates and currency data.
